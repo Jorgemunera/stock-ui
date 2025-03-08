@@ -35,7 +35,7 @@ Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 ### 1. Clonar el Repositorio
 ```sh
  git clone <URL_DEL_REPOSITORIO>
- cd prueba-tecnica-truora/stock-ui
+ cd stock-ui
 ```
 
 ### 2. Instalar Dependencias
